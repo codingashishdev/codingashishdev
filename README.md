@@ -1,16 +1,8 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
+![Earth](GIF/Earth.gif){:width="24px"alt="Earth"} 
+#Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 
-<br/>
-<br/>
-
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **JavaScript 𝚊𝚗𝚍 Web Development.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Front-end tools 𝚊𝚗𝚍 DSA.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
@@ -19,9 +11,8 @@
 <br/>
 <br/>
 
-
 <p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=blue"/> •   
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=blue"/> •
   <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
@@ -53,7 +44,6 @@
 <br/>
 <br/>
 
-
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/></code>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"/></code>
@@ -75,7 +65,6 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/></code>
-
 
 <br/>
 
@@ -146,19 +135,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 14.1 MB Used in GitHub's Storage 
- > 
+> 📦 14.1 MB Used in GitHub's Storage
+ >
 > 🏆 1,841 Contributions in the Year 2024
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 207 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 207 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                14590 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
@@ -166,7 +155,8 @@
 🌃 Evening                30866 commits       █████████░░░░░░░░░░░░░░░░   36.17 % 
 🌙 Night                  16468 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   11862 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
@@ -178,8 +168,7 @@ Saturday                 12481 commits       ████░░░░░░░�
 Sunday                   13230 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
@@ -201,7 +190,7 @@ Auto-commit              0 secs              ░░░░░░░░░░░�
 Windows                  60 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Jupyter Notebook**
 
 ```text
 Jupyter Notebook         37 repos            ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
@@ -210,9 +199,6 @@ JavaScript               11 repos            ██░░░░░░░░░�
 Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
-
-
-
 
  Last Updated on 04/02/2024 01:59:57 UTC
 <!--END_SECTION:waka-->
@@ -255,7 +241,7 @@ R                        1 repo              ░░░░░░░░░░░�
   </a>
   <a href="https://dev.to/jayantgoel001">
     <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
-  </a>     
+  </a>
 </p>
 <br/>
 
@@ -286,7 +272,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
 
 </div>
 
