@@ -118,7 +118,6 @@
 
 <p align="center">
   <img width="75%" src="github-metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
 <h1>
