@@ -97,7 +97,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg"/>
+<img align="center" height="450px" src="https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg"/>
 
 <br>
 <br>
