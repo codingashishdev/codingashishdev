@@ -11,9 +11,12 @@
 - 🔭 I'm currently working on **JavaScript and Web Development.**
 - 🌱 I'm currently learning **Front-end tools and DSA.**
 - 👯 I'm looking to collaborate on **Web Development.**
-- 💬 Ask Me About Anything on Instagram [here](https://www.instagram.com/ig.ashcode/)! I am happy to help.
+- 💬 Ask Me About Anything on Instagram **[here](https://www.instagram.com/ig.ashcode/)!** I am happy to help.
 - 😄 Pronouns: **He/Him/His.**
-- ⚡ Fun fact: **Best Part Of The Journey Is : *It Ends.***
+- I'm a **Night🦉**
+- 📅 I'm **Most Productive** on **Weekends**
+
+- **Mostly Code** in **Visual Studio Code**
 
 
 <br/>
@@ -102,78 +105,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%20-blue)
 
-
-**🐱 My GitHub Data**
-
-> 📦 14.1 MB Used in GitHub's Storage
- >
-> 🏆 1,841 Contributions in the Year 2024
- >
-> 💼 Opted to Hire
- >
-> 📜 207 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                14590 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-🌆 Daytime                23421 commits       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-🌃 Evening                30866 commits       █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌙 Night                  16468 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   11862 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  11891 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                12044 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 11893 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   11944 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 12481 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Sunday                   13230 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    60 hrs 56 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Chrome                   60 hrs 56 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Non-Linear-Data-Structure52 hrs 34 mins      ██████████████████████░░░   86.28 % 
-AJAX-123456              6 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-JayantGoel001            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-git-test                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Auto-commit              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  60 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook**
-
-```text
-Jupyter Notebook         37 repos            ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-C++                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-```
-
- Last Updated on 04/02/2024 01:59:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ashcode98/0add9ed6-b82b-4a11-982c-4e06ec4d0dbe.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@ashcode98/8d5e3950-8874-4d65-a369-fd003df7e449.svg" />
 </p>
 
 #
@@ -184,7 +120,7 @@ R                        1 repo              ░░░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img width="75%" src="metrics.svg"/>
+  <img width="75%" src="github-metrics.svg"/>
   <img src="metrics.detailed.svg" width="75%"/>
 </p>
 
