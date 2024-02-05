@@ -100,7 +100,6 @@
 <img align="center" height="450px" src="https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg"/>
 
 <br>
-<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%20-blue)
