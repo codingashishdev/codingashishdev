@@ -58,7 +58,6 @@ jobs:
            with :
                filename: metrics.detailed.svg
                token: ${{ secrets.METRICS_TOKEN }}
-               committer_token: ${{ secrets.GITHUB_TOKEN }}
                base: "metadata"
                plugin_achievements: yes
                plugin_achievements_only: sponsor, maintainer, octonaut
