@@ -50,13 +50,11 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-
-  github-metrics-detailed-personal:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.detailed.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            plugin_achievements: yes
-            plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/profiles/7a941ae55f05a
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
