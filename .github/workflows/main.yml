@@ -53,9 +53,13 @@ jobs:
 
   github-metrics-detailed-personal:
       runs-on: ubuntu-latest
-      steps:      
-         - uses: lowlighter/metrics@latest
-           with :
-               token: ${{ secrets.METRICS_TOKEN }}
-               plugin_achievements: yes
-               plugin_achievements_only: sponsor, maintainer, octonaut
+      environment: 
+         name: "METRICS_TOKEN"
+      permissions:
+             contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            token: ${{ secrets.METRICS_TOKEN }}
+            plugin_achievements: yes
+            plugin_achievements_only: sponsor, maintainer, octonaut
