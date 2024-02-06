@@ -119,8 +119,7 @@
 <p align="center">
   <img width="75%" src="github-metrics.svg"/>
 </p>
-<br>
-<br>
+
 <h1>
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px"/>
