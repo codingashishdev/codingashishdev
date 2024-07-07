@@ -1,10 +1,10 @@
-## 🌐 About me
-
 - **Upcoming Software Enginner.**
 
 - **I enjoy Problem Solving and web development.**
 
 - **I use visual studio code**
+
+## 🌐 Socials
 
 - **LinkedIn:** [Ashish Prajapati](https://www.linkedin.com/in/ashish-prajapati-6721ba243/)
 
