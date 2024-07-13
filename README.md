@@ -1,8 +1,8 @@
-- **Upcoming Software Enginner.**
-
-- **I enjoy Problem Solving and web development.**
-
-- **I use visual studio code**
+- Mastering Web Development(MERN).
+- Exploring new field such as Machine Learning, generative  AI, DevOps.
+- Improving my problem solving skill by practicing algorithmic questions on Leetcode and Codeforces
+- know the basics of HTML, Css, JavaScript, C(Programming Language), C++, sql(LittleBit)
+- Tools: Ubuntu, visual studio code, Google Chrome
 
 ## 🌐 Socials
 
