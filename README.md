@@ -1,5 +1,3 @@
-<a href="https://data.typeracer.com/pit/profile?user=ashcode98&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ashcode98" border="0" alt="TypeRacer.com scorecard for user ashcode98"/></a>
-
 - Mastering Web Development(MERN).
 - Exploring new field such as Machine Learning, generative  AI, DevOps.
 - Improving my problem solving skill by practicing algorithmic questions on Leetcode and Codeforces
@@ -40,3 +38,5 @@
 [![wakatime](https://wakatime.com/badge/user/018d7861-65e4-43a2-9694-be710f9a2011.svg)](https://wakatime.com/@018d7861-65e4-43a2-9694-be710f9a2011)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashcode98)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://data.typeracer.com/pit/profile?user=ashcode98&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ashcode98" border="0" alt="TypeRacer.com scorecard for user ashcode98"/></a>
