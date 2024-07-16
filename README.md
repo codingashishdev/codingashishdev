@@ -1,3 +1,5 @@
+<a href="https://data.typeracer.com/pit/profile?user=ashcode98&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ashcode98" border="0" alt="TypeRacer.com scorecard for user ashcode98"/></a>
+
 - Mastering Web Development(MERN).
 - Exploring new field such as Machine Learning, generative  AI, DevOps.
 - Improving my problem solving skill by practicing algorithmic questions on Leetcode and Codeforces
