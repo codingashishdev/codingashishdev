@@ -6,6 +6,8 @@
 
 <a href="https://app.daily.dev/ashcode98416"><img src="https://api.daily.dev/devcards/v2/P8dzUcCHoHYC6lU2eC4ca.png?type=wide&r=ik4" width="652" alt="Ashish Prajapati's Dev Card"/></a>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## 🌐 Socials
 
 - **LinkedIn:** [Ashish Prajapati](https://www.linkedin.com/in/ashish-prajapati-6721ba243/)
