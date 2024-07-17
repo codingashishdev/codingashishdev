@@ -1,8 +1,8 @@
 - Mastering Web Development(MERN).
-- Exploring new field such as Machine Learning, generative  AI, DevOps.
-- Improving my problem solving skill by practicing algorithmic questions on Leetcode and Codeforces
-- know the basics of HTML, Css, JavaScript, C(Programming Language), C++, sql(LittleBit)
-- Tools: Ubuntu, visual studio code, Google Chrome
+- Exploring new fields such as Machine Learning, generative  AI, and DevOps.
+- Improving my problem-solving skill by practising algorithmic questions on Leetcode and Codeforces
+- know the basics of HTML, CSS, JavaScript, C(Programming Language), C++, SQL (LittleBit)
+- Tools: Ubuntu, Visual Studio Code, Google Chrome
 
 <a href="https://app.daily.dev/ashcode98416"><img src="https://api.daily.dev/devcards/v2/P8dzUcCHoHYC6lU2eC4ca.png?type=wide&r=ik4" width="652" alt="Ashish Prajapati's Dev Card"/></a>
 
@@ -33,7 +33,7 @@
 </details>
 <br>
 
-## Daily time spend on coding
+## Daily time spent on coding
 
 <img align="center" width="700px" src="https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg"/>
 
