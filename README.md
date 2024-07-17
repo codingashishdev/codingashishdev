@@ -6,8 +6,6 @@
 
 <a href="https://app.daily.dev/ashcode98416"><img src="https://api.daily.dev/devcards/v2/P8dzUcCHoHYC6lU2eC4ca.png?type=wide&r=ik4" width="652" alt="Ashish Prajapati's Dev Card"/></a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## 🌐 Socials
 
 - **LinkedIn:** [Ashish Prajapati](https://www.linkedin.com/in/ashish-prajapati-6721ba243/)
@@ -41,4 +39,4 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashcode98)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://data.typeracer.com/pit/profile?user=ashcode98&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ashcode98" border="0" width="300px" height="300px" alt="TypeRacer.com scorecard for user ashcode98"/></a>
+![Jokes Card](https://readme-jokes.vercel.app/api)
