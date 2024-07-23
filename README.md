@@ -2,7 +2,7 @@
 - Exploring new fields such as Machine Learning, generative  AI, and DevOps.
 - Improving my problem-solving skill by practising algorithmic questions on Leetcode and Codeforces
 - know the basics of HTML, CSS, JavaScript, C(Programming Language), C++, SQL (LittleBit)
-- Tools: Ubuntu, Visual Studio Code, Google Chrome
+- Tools: Ubuntu, Visual Studio Code, Firebox Developer Edition.
 
 <a href="https://app.daily.dev/ashcode98416"><img src="https://api.daily.dev/devcards/v2/P8dzUcCHoHYC6lU2eC4ca.png?type=wide&r=ik4" width="652" alt="Ashish Prajapati's Dev Card"/></a>
 
