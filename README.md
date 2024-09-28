@@ -1,4 +1,4 @@
-- Mastering Web Development(MERN).
+- Learning Backend Development currently.
 - Exploring new fields such as Machine Learning, generative  AI, and DevOps.
 - Improving my problem-solving skills by practising algorithmic questions on Leetcode and Codeforces
 - Proficient in HTML, CSS, JavaScript, C(Programming Language), C++, SQL (LittleBit)
