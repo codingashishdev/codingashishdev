@@ -1,5 +1,5 @@
 - Learning Backend Development currently.
-- Exploring new fields such as Machine Learning, generative  AI, and DevOps.
+- Exploring UI/UX Design
 - Improving my problem-solving skills by practising algorithmic questions on Leetcode, GeeksforGeeks and Codeforces
 - Proficient in HTML, CSS, JavaScript, C(Programming Language), C++, SQL(Intermediate)
 - Tools: Arch Linux, Visual Studio Code, Firebox Developer Edition.
