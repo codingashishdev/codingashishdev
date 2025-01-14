@@ -23,5 +23,6 @@
 ![Daily Coding Time](https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg)
 
 ### **Blog Posts**
+- [Understanding aggregation pipelines in mongodb](https://codingashish.hashnode.dev/understanding-aggregation-pipelines-in-mongodb)
 - [How to Install Postgresql on arch-linux ](https://codingashish.hashnode.dev/step-by-step-guide-to-installing-postgresql-on-arch-linux)
-- [How to add tailwind css to your project](https://codingashish.hashnode.dev/5-ways-to-add-tailwind-css-to-your-project)
+- [How to add tailwind CSS to your project](https://codingashish.hashnode.dev/5-ways-to-add-tailwind-css-to-your-project)
