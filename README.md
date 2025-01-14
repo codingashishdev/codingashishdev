@@ -20,7 +20,7 @@
 
 ## Daily time spent on coding
 
-![Daily Coding Time](https://wakatime.com/share/@ashcode98/1533bd23-a89c-45e0-9771-346c3932c411.svg)
+![Daily Coding Time](https://wakatime.com/share/@codingashishdev/1533bd23-a89c-45e0-9771-346c3932c411.svg)
 
 ### **Blog Posts**
 - [Understanding aggregation pipelines in mongodb](https://codingashish.hashnode.dev/understanding-aggregation-pipelines-in-mongodb)
