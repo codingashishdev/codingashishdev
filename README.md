@@ -8,7 +8,7 @@
 
 ## Profiles
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/codingashish/)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/codingashish)  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:atankmember@gmail.com)  [![Leetcode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/ashCode98/)  [![Codepen](https://go-skill-icons.vercel.app/api/icons?i=codepen)](https://codepen.io/ashCode98)  [![Daily.dev](https://go-skill-icons.vercel.app/api/icons?i=dailydev)](https://app.daily.dev/codingashish_dev)[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/codingashish/)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/codingashish)  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:atankmember@gmail.com)  [![Leetcode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/ashCode98/)  [![Codepen](https://go-skill-icons.vercel.app/api/icons?i=codepen)](https://codepen.io/ashCode98)  [![Daily.dev](https://go-skill-icons.vercel.app/api/icons?i=dailydev)](https://app.daily.dev/codingashish_dev)[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mine-of-resources.tech/)
 
 ## Skills
 
