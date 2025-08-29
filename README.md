@@ -1,1 +1,1 @@
-Hey, I'm Ashish, Full-Stack Web Developer based on India, Gujarat 
+Hey, I'm Ashish, Full-Stack Developer based on India, Gujarat
