@@ -6,11 +6,11 @@ Hey, I'm Ashish, Full-Stack Developer based in India, Gujarat
 <!--START_SECTION:waka-->
 
 ```txt
-Other        25 hrs 34 mins  ██████████████████░░░░░░░   72.05 %
-HTML         4 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-TypeScript   4 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-hyprlang     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other        26 hrs 4 mins   █████████████████░░░░░░░░   68.46 %
+HTML         6 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+TypeScript   4 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Markdown     52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+hyprlang     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
