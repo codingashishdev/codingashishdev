@@ -10,9 +10,12 @@ I love building for the web and the CLI. I'm currently deep‑diving into authen
 [![GitHub watchers](https://img.shields.io/github/watchers/codingashishdev/codingashishdev.svg?style=social)](https://GitHub.com/codingashishdev/codingashishdev/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/codingashishdev/codingashishdev.svg?style=social)](https://GitHub.com/codingashishdev/codingashishdev/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/codingashishdev/codingashishdev.svg?style=social)](https://GitHub.com/codingashishdev/codingashishdev/network/)
-
+[![ForTheBadge makes-people-smile](https://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://ForTheBadge.com)
+[![ForTheBadge winter-is-coming](https://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://ForTheBadge.com)
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=codingashishdev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codingashishdev&theme=blue-green)](https://git.io/streak-stats)
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=codingashishdev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingashishdev&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codingashishdev&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
