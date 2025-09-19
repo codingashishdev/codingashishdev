@@ -18,6 +18,19 @@ I love building for the web and the CLI. I'm currently deep-diving into authenti
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codingashishdev&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 September 2025 - To: 16 September 2025
+
+Total Time: 13 hrs 16 mins
+
+Other        21 hrs 17 mins  ███████████████▒░░░░░░░░░   61.59 %
+HTML         7 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+TypeScript   3 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+JavaScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Markdown     41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingashishdev&theme=gruvbox)](https://github.com/codingashishdev)
