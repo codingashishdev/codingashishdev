@@ -33,10 +33,8 @@ Markdown     1 hr 35 mins    █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- MonkeyType personal best badge (updated by GitHub Action) -->
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+<img width="1689" height="632" alt="image" src="https://github.com/user-attachments/assets/1a12dfe4-5618-4c89-a663-4a11eb0bd9ac" />
 
-[![monkeytype.badge]](https://monkeytype.com/)
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingashishdev&theme=gruvbox)](https://github.com/codingashishdev)
 
