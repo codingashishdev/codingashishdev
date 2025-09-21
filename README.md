@@ -20,15 +20,15 @@ I love building for the web and the CLI. I'm currently deep-diving into authenti
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Total Time: 10 hrs 44 mins
+Total Time: 10 hrs 22 mins
 
-Other        18 hrs 45 mins  ████████████████░░░░░░░░░   63.61 %
-JavaScript   2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-HTML         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-TypeScript   2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Markdown     1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Other        14 hrs 20 mins  ██████████████▓░░░░░░░░░░   58.03 %
+JavaScript   3 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Markdown     2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+TypeScript   1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+HTML         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
