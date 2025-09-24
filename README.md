@@ -1,1 +1,1 @@
-Full Stack Developer based in India
+I love building cli tools and web applications
