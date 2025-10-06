@@ -10,9 +10,12 @@ jobs:
     name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
