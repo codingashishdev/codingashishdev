@@ -5,17 +5,17 @@ I love building cli tools and web applications
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Total Time: 39 hrs 35 mins
+Total Time: 33 hrs 8 mins
 
-Other        27 hrs 38 mins  >>>>>>>>>>>>>>>>>--------   69.79 %
-HTML         4 hrs 29 mins   >>>----------------------   11.33 %
-TypeScript   3 hrs 8 mins    >>-----------------------   07.94 %
-C++          1 hr 44 mins    >------------------------   04.41 %
-JavaScript   48 mins         >------------------------   02.03 %
-JSON         47 mins         >------------------------   02.00 %
-hyprlang     14 mins         -------------------------   00.62 %
+Other        19 hrs 23 mins  >>>>>>>>>>>>>>>----------   58.53 %
+HTML         5 hrs 39 mins   >>>>---------------------   17.09 %
+TypeScript   4 hrs 1 min     >>>----------------------   12.13 %
+C++          1 hr 44 mins    >------------------------   05.27 %
+JavaScript   47 mins         >------------------------   02.41 %
+JSON         46 mins         >------------------------   02.33 %
+Git          11 mins         -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
