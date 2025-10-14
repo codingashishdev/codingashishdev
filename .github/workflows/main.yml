@@ -1,22 +1,21 @@
-name: Update README with my latest coding stats
+        name: Waka Readme
 
-on:
-  schedule:
-    - cron: '30 5 * * *'
-  workflow_dispatch:
+        on:
+          # for manual workflow trigger
+          workflow_dispatch:
+          schedule:
+            # runs at 12 AM UTC
+            - cron: "0 0 * * *"
 
-jobs:
-  update-Readme:
-    name: Automatically update my README  
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: last_7_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 7
+        jobs:
+          update-readme:
+            name: WakaReadme DevMetrics
+            runs-on: ubuntu-latest
+            steps:
+              - uses: athul/waka-readme@master
+                with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  SHOW_WEEKLY: true
+                  # Optional: Add other flags to customize the output
+                  # SHOW_MONTHLY: true
+                  # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Only if not using profile repo
